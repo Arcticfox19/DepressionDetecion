@@ -1,0 +1,3 @@
+whole_samples_reg_256是对EATD-Corpus数据集得到的
+whole_samples_new_256是对自制数据集的positive1、negative1等特征提取得到的
+whole_labels_36x3_256.npz是每人的数据拆分为3条样本
