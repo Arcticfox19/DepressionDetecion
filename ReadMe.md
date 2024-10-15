@@ -3,6 +3,7 @@
 This project is developed based on the original work from ICASSP2022-Depression.
 
 Original Project URL: https://github.com/speechandlanguageprocessing/ICASSP2022-Depression
+
 #数据预处理
 ##问卷得分计算
 vq文件用于计算问卷得分（直接从问卷星按文本导出即可），生成一个csv文件，以VQ_data.csv为例
